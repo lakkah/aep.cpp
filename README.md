@@ -1,2 +1,2 @@
 # aep.cpp
-learning c/c++
+hi everyone, im learning c/c++ and i'll use this repository for training.
