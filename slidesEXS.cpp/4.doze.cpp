@@ -2,8 +2,10 @@
 aritmética (+, -, *, /) e, em seguida, dois números reais a e
 b. Imprima a expressão matemática junto com o seu
 resultado no formato:
-
-a op b = resultado */
+a op b = resultado 
+Imprima mensagens de erro para as seguintes situações:
+a) Operador inválido
+b) Divisão por zero */
 #include <stdio.h>
 
 int main() {
